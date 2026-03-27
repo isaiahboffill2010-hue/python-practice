@@ -1,0 +1,70 @@
+Python Practice
+1. Fill in the blanks
+sum_of_grades = 460
+students = 5
+print(sum_of_grades ___ students)
+private = 3
+public = 10
+total ___ private + public
+print(total)
+percent = 0.5 ___ 100
+print(percent)
+print("Posts:" ___ "55")
+user = "snoopdogg"
+print("Username:" ___ user)
+print("Jon" ___ "athan")
+2. What is the output?
+temperature = "3" + "1"
+print(temperature)
+private = 3
+public = 10
+total = private + public
+print("Total posts:")
+print(total)
+percent = 0.5 * 100
+print(percent)
+print("Posts:" + "55")
+user = "snoopdogg"
+print("Username:" + user)
+print("Jon" + "athan")
+3. Write the code
+
+Write code for each one.
+
+Create likes = 12 and comments = 8, then store the total in engagement and print it.
+Create points = 200 and players = 4, then print the average points.
+Create discount = 0.3, multiply it by 100, and print the result.
+Create a variable called username with your name in quotes, then print:
+Username: yourname
+Print:
+HelloWorld
+
+by joining two strings.
+
+Create:
+morning_sales = 15
+evening_sales = 10
+
+Store the result in total_sales and print:
+
+Total sales:
+25
+4. Mixed practice
+
+What will each display?
+
+a = 5
+b = 7
+print(a + b)
+x = 100
+y = 4
+print(x / y)
+word_1 = "Py"
+word_2 = "thon"
+print(word_1 + word_2)
+rate = 0.25 * 100
+print(rate)
+followers = 40
+new_followers = 5
+total_followers = followers + new_followers
+print(total_followers)

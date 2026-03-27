@@ -1,0 +1,71 @@
+Here are some good Python practice exercises, starting easy and getting a little harder.
+
+Beginner practice
+
+Create variables for your name, age, and city, then print them.
+Make a variable called favorite_car = "Porsche" and print a sentence using it.
+Practice snake case by creating variables like:
+first_name
+favorite_food
+best_friend_name
+Create two numbers and print their sum, difference, product, and quotient.
+Ask the user for their name with input() and say hello.
+
+Condition practice
+6. Ask for a number and tell whether it is positive, negative, or zero.
+7. Ask for someone’s age and print whether they are a child, teen, or adult.
+8. Ask for a password and check if it matches a saved password.
+
+Loop practice
+9. Print numbers 1 through 10 with a for loop.
+10. Print even numbers from 2 to 20.
+11. Use a while loop to count down from 5 to 1.
+12. Ask the user to guess a secret number until they get it right.
+
+String practice
+13. Store your name in a variable and print:
+
+all uppercase
+all lowercase
+number of letters
+Ask the user for a word and check if it starts with a vowel.
+Reverse a word using slicing.
+
+List practice
+16. Make a list of 5 favorite foods and print each one.
+17. Add a new item to a list, remove one, and sort the list.
+18. Find the largest number in a list.
+
+Function practice
+19. Write a function called greet() that prints hello.
+20. Write a function add_numbers(a, b) that returns the sum.
+21. Write a function that checks if a number is even.
+
+Mini projects
+22. Simple calculator
+23. Mad Libs game
+24. To-do list
+25. Number guessing game
+26. Quiz game with 3 questions
+27. Student grade checker
+28. Expense tracker
+
+Try these 3 first since they match what you’re learning:
+
+city = "Miami"
+print(city)
+car_1 = "Porsche"
+print("My favorite car is", car_1)
+first_name = input("Enter your first name: ")
+city_name = input("Enter your city: ")
+print("Hello", first_name, "from", city_name)
+
+Here’s a 7-day practice plan:
+
+Day 1: variables and printing
+Day 2: strings and snake case
+Day 3: input and simple math
+Day 4: if statements
+Day 5: loops
+Day 6: lists
+Day 7: functions and a mini project
